@@ -11,7 +11,7 @@ import static com.lab1.Main.findMinimum;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
-public class FindMinimumTest {
+public class Test {
     private static final double EPSILON = 1e-6;
 
     @ParameterizedTest
